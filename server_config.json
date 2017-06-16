@@ -1,6 +1,6 @@
 {
   "hostname": "localhost",
-  "document_root": "./test_docroot/",
+  "document_root": "./test_website/",
   "port": 4444,
   "socket_timeout":500,
   "backlog": 5,
