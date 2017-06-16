@@ -1,0 +1,8 @@
+{
+  "hostname": "localhost",
+  "document_root": "./test_docroot/",
+  "port": 4444,
+  "socket_timeout": 500,
+  "backlog": 5,
+  "threads": 2
+}
